@@ -1,3 +1,11 @@
 node_modules
-build
 
+build
+**/build/**
+lib
+**/lib/**
+
+# for yarn2
+/.vscode/
+/.yarn/
+/.pnp.js
